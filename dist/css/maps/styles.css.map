@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,MACE,cACA,oBAAA,AACA,oBADA,AACA,aAAA,kBAAmB,CACpB,eAGC,UAAW,CACZ","file":"../styles.css","sourcesContent":[".test {\n  font-size: 1em;\n  display: flex;\n  padding-left: 300px;\n}\n\n.another_Style {\n  color: blue;\n}\n"]}
